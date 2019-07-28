@@ -56,7 +56,7 @@ switch(command){
         
 
 
-    console.log("concert command test");
+    //console.log("concert command test");
     break;
 
 
